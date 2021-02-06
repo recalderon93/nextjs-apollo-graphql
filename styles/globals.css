@@ -7,10 +7,28 @@ body {
 }
 
 a {
-  color: inherit;
+  color: rgb(112, 112, 216);
+  font-size: 16px;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+table{
+  border: solid .5px;
+  border-collapse: collapse;
+  text-align: center;
+
+}
+th{
+  border: solid .5px;
+  border-collapse: collapse;
+  padding: 2.5px 10px;
+}
+td{
+  border: solid .5px;
+  border-collapse: collapse;
+    padding: 2.5px 10px;
 }

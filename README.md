@@ -1,34 +1,97 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# NextJS and Apollo server/client
 
-First, run the development server:
+![Project Image](./images/header.jpg)
 
-```bash
-npm run dev
-# or
-yarn dev
+> A simple boiler plate, to use NextJS API folder features, and start developing your GraphQL API
+
+---
+
+## Table of Contents
+- [Movitvation](#motivation)
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#author-info)
+
+
+---
+## Motivation
+
+Create Next App offers an excellent boilerplate to start developing your app right away, with a project structure that let you include API endpoints routes, treating them as server-side only bundles.
+
+You can easily set up your GraphQL API to connect with your database or fetch data from an external source. 
+
+Using Apollo Server/Client to interact with your API, offers tools out of the box, like smooth cache handling and the context provider to interact with the state of your application.
+
+---
+## Description
+
+Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+
+#### Technologies
+
+- NextJS
+- GraphQL
+- Apollo
+
+[Back To The Top](#read-me-template)
+
+---
+
+## How To Use
+
+#### Installation
+
+
+
+#### API Reference
+
 ```
+    <p>dummy code</p>
+```
+[Back To The Top](#read-me-template)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## References
+[Back To The Top](#read-me-template)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## License
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+MIT License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Copyright (c) [2017] [James Q Quick]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Deploy on Vercel
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Back To The Top](#read-me-template)
+
+---
+
+## Author Info
+
+- Twitter - [@recalderon93](https://twitter.com/recalderon93)
+
+
+[Back To The Top](#read-me-template)
